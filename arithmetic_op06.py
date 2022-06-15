@@ -7,3 +7,6 @@
 #Print the answer.
  
 #Print the number.
+number=16
+answer=(number/2-number//2)
+print(answer)
