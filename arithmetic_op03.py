@@ -6,4 +6,5 @@
 number=43
 x=number%10
 y=number//10
-print(x*10+y)
+answer=x*10+y
+print(answer)

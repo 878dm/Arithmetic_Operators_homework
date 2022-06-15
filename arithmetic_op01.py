@@ -6,6 +6,7 @@
 
 #Print the value of result.
 #'The result is:'
-x=2
-y=3
-print(x+y)
+x=10
+y=5
+result=x+y
+print(result)
